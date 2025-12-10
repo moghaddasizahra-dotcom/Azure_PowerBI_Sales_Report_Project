@@ -36,24 +36,20 @@ The report contains visuals such as:
 
 All visuals are available in:
 
+
 - **PDF Report:**
-  
 [Download Sales Report PDF](Lab3%20.%20Sales%20Report.pdf)
+
+- **Live Project Link**
+[View the GitHub Repository](https://app.powerbi.com/view?r=eyJrIjoiYmRlNmJjMmItZTIwZS00M2FhLWE5ODUtMDRmOTYyNzQwNDExIiwidCI6IjNlYTdjMTI4LWM2MDEtNDQ3OS1hMDAzLWUxNGQwMGMwYjVjYiJ9)
 
 
 - **Screenshot Preview:**
-
 | Sales Report Dashboard |
 |------------------------|
 | ![](Sales%20Report.jpg) |
 
----
-## Screenshot Preview
 
-<p align="center">
-  <img src="Sales%20Report.jpg" width="600">
-</p>
----
 ## **What I Learned:**
 
 Relational Data
