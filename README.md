@@ -36,14 +36,14 @@ The report contains visuals such as:
 
 All visuals are available in:
 
-**PDF Report:**
+- **PDF Report:**
 [Download Sales Report PDF](Lab3%20.%20Sales%20Report.pdf)
 
 
-**Screenshot Preview:**
+- **Screenshot Preview:**
 | Sales Report Dashboard |
 |----------------------------|
-| ![](Sales%20Report.jp) |
+| ![](Sales%20Report.jpg) |
 
 
 ## **What I Learned:**
