@@ -45,6 +45,7 @@ All visuals are available in:
 
 
 - **Screenshot Preview:**
+
 | Sales Report Dashboard |
 |------------------------|
 | ![](Sales%20Report.jpg) |
