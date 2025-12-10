@@ -36,8 +36,15 @@ The report contains visuals such as:
 
 All visuals are available in:
 
-/Azure_PowerBI_Sales_Report_Project/Lab3%20.%20Sales%20Report.pdf
-![Azure_PowerBI_Sales_Report_Project](Azure_PowerBI_Sales_Report_Project/Sales%20Report.jpg)
+**PDF Report:**
+[Download Sales Report PDF](Lab3%20.%20Sales%20Report.pdf)
+
+
+**Screenshot Preview:**
+| Sales Report Dashboard |
+|----------------------------|
+| ![](Sales%20Report.jp) |
+
 
 ## **What I Learned:**
 
