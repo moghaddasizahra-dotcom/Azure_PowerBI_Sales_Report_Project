@@ -7,30 +7,41 @@ This project showcases skills learned during an Azure Data Fundamentals week, wh
 
 Since the virtual machine environment is no longer accessible, this repository focuses on the Power BI Sales Report created during the labs, supported by explanations of the Azure services involved.
 
+---
+
 ## **Data Flow:**
 ```text
-Source Files / Databases
-       ↓
-Azure Data Lake Storage (non-relational)
-       ↓
-Azure Synapse Analytics / SQL (relational + analytics)
-       ↓
-Power BI Desktop
-       ↓
-Sales Report Visuals
+ Source Data (Relational + Non-Relational)
+                      ↓
+ Azure Data Lake Storage (Raw Layer)
+                      ↓
+ Azure Synapse Analytics (Transform)
+                      ↓
+ Power BI Desktop (Visualise)
+                      ↓
+ Sales Analytics Dashboard (Insights)
 ```
+This represents a typical cloud-based data analytics pipeline.
+
 ## **Power BI Sales Report**
 
-The report includes:
+This repository includes a Sales Report created in Power BI based on the dataset provided during the Azure week exercises.
+
+The report contains visuals such as:
+
 - Revenue by Category
 - Quantity by Category
-- Revenue by City (Map visual)
-- Data modelling basics (relationships, data types, categories)
+- Revenue by City (Map)
+- Basic sales performance insights (relationships, data types, categories)
+
+All visuals are available in:
+
+/Azure_PowerBI_Sales_Report_Project/Lab3%20.%20Sales%20Report.pdf
+![Azure_PowerBI_Sales_Report_Project](Azure_PowerBI_Sales_Report_Project/Sales%20Report.jpg)
 
 ## **What I Learned:**
 
 Relational Data
-
 - How structured data is stored in Azure SQL
 - Tables, relationships, schemas
 - Querying using SQL
@@ -45,10 +56,10 @@ Analytics in Azure
 
 ## **Tools Used**
 
+- Power BI Desktop
 - Azure SQL Database
 - Azure Data Lake Storage (Gen2)
 - Azure Synapse Analytics
-- Power BI Desktop
-- Visual Studio Code / Azure Portal
+- Virtual Machines (Azure Lab Environment)
 
   
